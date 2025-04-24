@@ -1,5 +1,5 @@
 # UTSPrakML_1227050009_Ahmad-Badru-Al-Husaeni
-#Decision Tree
+# Decision Tree
 
  1. Pengumpulan dan Persiapan Data
 Dataset yang digunakan diunduh dari Kaggle: 🔗 https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit
